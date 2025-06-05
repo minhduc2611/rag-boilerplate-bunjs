@@ -1,4 +1,4 @@
-# Buddha Agent Node - RAG Backend
+# RAG Backend
 
 A Retrieval-Augmented Generation (RAG) backend built with Bun.js, using Weaviate for vector storage and Anthropic's Claude for generation.
 
